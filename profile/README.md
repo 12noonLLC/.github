@@ -4,7 +4,7 @@ Since 1992, we have been developing and publishing Microsoft® Windows® applica
 to make your life easier, more productive, and more enjoyable. We have published a number
 of applications over the years—Display Changer X, Display Changer II, Display Changer,
 Alarm X, Alarm++, On My Way, Almost Time, License Manager X, Typecast, Calculate X,
-ScreenSleeper, Timekeeper, NameTwister, TouchMax, Path to Clipboard, Aligner, Shutdown,
+Pill Timer, ScreenSleeper, Timekeeper, NameTwister, TouchMax, Path to Clipboard, Aligner, Shutdown,
 Fireworks, and others.
 
 You can find more information at [12noon.com](https://12noon.com).
